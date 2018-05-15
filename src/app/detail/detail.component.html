@@ -1,0 +1,26 @@
+<form [formGroup]="form" class="detail" (ngSubmit)="onSubmit(form)">
+  <div class="form-group">
+    <label class="center-block">Name:
+      <div class="my-alert" *ngIf="!form.controls['name'].valid && form.controls['name'].touched">Name des Kreises ist erforderlich!</div>
+      <input type="text" class="form-control" id="name" formControlName="name">
+    </label>
+  </div>
+  <div class="form-group">
+    <label class="center-block">GPIO Pin:
+        <div class="my-alert" *ngIf="!form.controls['gpio'].valid && form.controls['gpio'].touched">Die GPIO Pinnummer ist erforderlich!</div>
+      <input type="number" class="form-control" id="gpio" formControlName="gpio" >
+    </label>
+  </div>
+  <div class="form-group">
+    <label class="center-block">Automatik Laufzeit:
+        <div class="my-alert" *ngIf="!form.controls['autoTime'].valid && form.controls['autoTime'].touched">Die Laufzeit im Automatikmodus ist erforderlich!</div>
+      <input type="number" class="form-control" id="autoTime" formControlName="autoTime" >
+    </label>
+  </div>
+
+  <div style="margin-bottom: 1em">
+    <button type="submit" [disabled]="form.pristine || form.invalid" class="btn btn-success">Speichern</button> &nbsp;
+    <button type="button" (click)="revert()" [disabled]="form.pristine" class="btn btn-danger">Zurücksetzen</button>
+  </div>
+
+</form>

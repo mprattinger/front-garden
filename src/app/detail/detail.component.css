@@ -1,0 +1,13 @@
+.detail{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .my-alert {
+    color:red;
+  }
+
+  .my-alert ~ input {
+    border-color: red;
+  }

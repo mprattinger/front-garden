@@ -1,0 +1,229 @@
+2018-05-15T18:10:06.257Z - info: Initializing application....
+2018-05-15T18:10:06.261Z - info: Initialize web server...
+2018-05-15T18:10:06.277Z - info: Resolving webserver...
+2018-05-15T18:10:06.278Z - info: Express server listening on port 8080
+2018-05-15T18:10:06.278Z - info: Application initialized! Run socket.io....
+2018-05-15T18:10:06.278Z - info: Frontgarden gestartet!
+2018-05-15T18:10:26.178Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:10:28.879Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:13:43.751Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:14:27.328Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:14:56.317Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:16:11.736Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:37:14.626Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:37:55.097Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:40:03.880Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:40:54.990Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:41:00.904Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:41:38.945Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:41:40.996Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:42:23.212Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:42:42.486Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:42:42.795Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:42:46.380Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:42:49.469Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:43:10.988Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:43:14.280Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:43:33.170Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:44:55.543Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:46:06.908Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:46:57.451Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:49:41.720Z - info: Initializing application....
+2018-05-15T18:49:41.725Z - info: Initialize web server...
+2018-05-15T18:49:41.742Z - info: Resolving webserver...
+2018-05-15T18:49:41.746Z - info: Express server listening on port 8080
+2018-05-15T18:49:41.747Z - info: Application initialized! Run socket.io....
+2018-05-15T18:49:41.747Z - info: Frontgarden gestartet!
+2018-05-15T18:50:11.687Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:50:20.753Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:50:31.858Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:51:42.228Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:51:55.955Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:52:03.483Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:58:40.264Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T18:59:32.316Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T18:59:42.267Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:02:16.014Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:02:27.347Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:02:30.414Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:03:57.749Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:04:10.117Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:07:32.573Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:07:34.941Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:07:36.749Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=PUT, name=Tropfer2, gpio=1, autoTime=20, _id=51OI8cqLkIyW9U8n
+2018-05-15T19:07:52.117Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:07:52.121Z - info: Sprinkler with id 51OI8cqLkIyW9U8n is updated in database! name=Tropfer2, gpio=1, autoTime=20, _id=51OI8cqLkIyW9U8n
+2018-05-15T19:08:57.910Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:09:04.409Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:09:45.528Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:09:52.535Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:09:56.269Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=PUT, name=Tropfer, gpio=1, autoTime=20, _id=51OI8cqLkIyW9U8n
+2018-05-15T19:10:21.503Z - info: Sprinkler with id 51OI8cqLkIyW9U8n is updated in database! name=Tropfer, gpio=1, autoTime=20, _id=51OI8cqLkIyW9U8n
+2018-05-15T19:10:21.867Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:12:59.243Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:14:16.836Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:39:25.883Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:40:49.733Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:41:02.065Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:42:29.664Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:45:46.177Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:46:35.832Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:46:47.477Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:47:09.977Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:47:12.098Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:50:04.941Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:50:07.977Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:51:26.394Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:51:43.786Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:52:26.657Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:52:31.623Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:52:45.354Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:53:12.076Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:53:16.254Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:53:18.217Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:53:31.296Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:53:33.625Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:53:36.052Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:53:55.336Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:53:57.389Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:53:59.197Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:54:00.029Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:54:01.417Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:54:17.854Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:54:19.198Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:54:51.861Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:54:56.838Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T19:54:58.236Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:56:03.695Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:56:28.616Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:56:32.518Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:57:15.575Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:57:38.617Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T19:58:02.830Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T20:33:55.692Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T20:42:46.705Z - info: Initializing application....
+2018-05-15T20:42:46.709Z - info: Initialize web server...
+2018-05-15T20:42:46.724Z - info: Resolving webserver...
+2018-05-15T20:42:46.725Z - info: Express server listening on port 8080
+2018-05-15T20:42:46.725Z - info: Application initialized! Run socket.io....
+2018-05-15T20:43:45.284Z - info: Initializing application....
+2018-05-15T20:43:45.288Z - info: Initialize web server...
+2018-05-15T20:43:45.302Z - info: Resolving webserver...
+2018-05-15T20:43:45.304Z - info: Express server listening on port 8080
+2018-05-15T20:43:45.305Z - info: Application initialized! Run socket.io....
+2018-05-15T20:43:45.308Z - info: Frontgarden gestartet!
+2018-05-15T20:47:08.764Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T20:48:39.515Z - info: Initializing application....
+2018-05-15T20:48:39.518Z - info: Initialize web server...
+2018-05-15T20:48:39.555Z - info: Resolving webserver...
+2018-05-15T20:48:39.556Z - info: Express server listening on port 8080
+2018-05-15T20:48:39.556Z - info: Application initialized! Run socket.io....
+2018-05-15T20:48:39.560Z - info: Frontgarden gestartet!
+2018-05-15T20:48:57.702Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T20:50:20.225Z - info: Initializing application....
+2018-05-15T20:50:20.228Z - info: Initialize web server...
+2018-05-15T20:50:20.245Z - info: Resolving webserver...
+2018-05-15T20:50:20.246Z - info: Express server listening on port 8080
+2018-05-15T20:50:20.247Z - info: Application initialized! Run socket.io....
+2018-05-15T20:50:20.249Z - info: Frontgarden gestartet!
+2018-05-15T20:50:33.560Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaO-i url=/socket.io/?EIO=3&transport=polling&t=MDbaO-i, method=GET, 
+2018-05-15T20:50:38.600Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaRTs url=/socket.io/?EIO=3&transport=polling&t=MDbaRTs, method=GET, 
+2018-05-15T20:50:40.567Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaRyp url=/socket.io/?EIO=3&transport=polling&t=MDbaRyp, method=GET, 
+2018-05-15T20:50:40.579Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T20:50:41.572Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaSCR url=/socket.io/?EIO=3&transport=polling&t=MDbaSCR, method=GET, 
+2018-05-15T20:50:44.174Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaSr4 url=/socket.io/?EIO=3&transport=polling&t=MDbaSr4, method=GET, 
+2018-05-15T20:50:46.826Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaTUb url=/socket.io/?EIO=3&transport=polling&t=MDbaTUb, method=GET, 
+2018-05-15T20:50:52.147Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaUiw url=/socket.io/?EIO=3&transport=polling&t=MDbaUiw, method=GET, 
+2018-05-15T20:50:57.161Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaW05 url=/socket.io/?EIO=3&transport=polling&t=MDbaW05, method=GET, 
+2018-05-15T20:51:02.480Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaXEN url=/socket.io/?EIO=3&transport=polling&t=MDbaXEN, method=GET, 
+2018-05-15T20:51:07.502Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaYXd url=/socket.io/?EIO=3&transport=polling&t=MDbaYXd, method=GET, 
+2018-05-15T20:51:12.830Z - info: /socket.io/?EIO=3&transport=polling&t=MDbaZm1 url=/socket.io/?EIO=3&transport=polling&t=MDbaZm1, method=GET, 
+2018-05-15T20:51:17.846Z - info: /socket.io/?EIO=3&transport=polling&t=MDbab3H url=/socket.io/?EIO=3&transport=polling&t=MDbab3H, method=GET, 
+2018-05-15T20:54:09.226Z - info: Initializing application....
+2018-05-15T20:54:09.230Z - info: Initialize web server...
+2018-05-15T20:54:09.244Z - info: Resolving webserver...
+2018-05-15T20:54:09.246Z - info: Express server listening on port 8080
+2018-05-15T20:54:09.247Z - info: Application initialized! Run socket.io....
+2018-05-15T20:54:09.251Z - info: Frontgarden gestartet!
+2018-05-15T20:54:22.273Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbGlb url=/socket.io/?EIO=3&transport=polling&t=MDbbGlb, method=GET, 
+2018-05-15T20:54:27.311Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbJJV url=/socket.io/?EIO=3&transport=polling&t=MDbbJJV, method=GET, 
+2018-05-15T20:54:32.641Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbKY6 url=/socket.io/?EIO=3&transport=polling&t=MDbbKY6, method=GET, 
+2018-05-15T20:54:37.678Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbLrZ url=/socket.io/?EIO=3&transport=polling&t=MDbbLrZ, method=GET, 
+2018-05-15T20:54:43.008Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbN46 url=/socket.io/?EIO=3&transport=polling&t=MDbbN46, method=GET, 
+2018-05-15T20:54:48.031Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbONI url=/socket.io/?EIO=3&transport=polling&t=MDbbONI, method=GET, 
+2018-05-15T20:54:53.372Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbPc7 url=/socket.io/?EIO=3&transport=polling&t=MDbbPc7, method=GET, 
+2018-05-15T20:54:58.387Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbQvC url=/socket.io/?EIO=3&transport=polling&t=MDbbQvC, method=GET, 
+2018-05-15T20:55:03.715Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbS7e url=/socket.io/?EIO=3&transport=polling&t=MDbbS7e, method=GET, 
+2018-05-15T20:55:08.735Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbTQz url=/socket.io/?EIO=3&transport=polling&t=MDbbTQz, method=GET, 
+2018-05-15T20:55:14.061Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbUfL url=/socket.io/?EIO=3&transport=polling&t=MDbbUfL, method=GET, 
+2018-05-15T20:55:19.073Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbVyS url=/socket.io/?EIO=3&transport=polling&t=MDbbVyS, method=GET, 
+2018-05-15T20:55:24.398Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbXAo url=/socket.io/?EIO=3&transport=polling&t=MDbbXAo, method=GET, 
+2018-05-15T20:55:29.413Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbYU0 url=/socket.io/?EIO=3&transport=polling&t=MDbbYU0, method=GET, 
+2018-05-15T20:55:34.731Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbZiK url=/socket.io/?EIO=3&transport=polling&t=MDbbZiK, method=GET, 
+2018-05-15T20:55:39.758Z - info: /socket.io/?EIO=3&transport=polling&t=MDbba_Y url=/socket.io/?EIO=3&transport=polling&t=MDbba_Y, method=GET, 
+2018-05-15T20:55:45.085Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbcE6 url=/socket.io/?EIO=3&transport=polling&t=MDbbcE6, method=GET, 
+2018-05-15T20:55:50.108Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbdXE url=/socket.io/?EIO=3&transport=polling&t=MDbbdXE, method=GET, 
+2018-05-15T20:55:53.113Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbeG0 url=/socket.io/?EIO=3&transport=polling&t=MDbbeG0, method=GET, 
+2018-05-15T20:55:53.116Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T20:56:20.786Z - info: Initializing application....
+2018-05-15T20:56:20.790Z - info: Initialize web server...
+2018-05-15T20:56:20.804Z - info: Resolving webserver...
+2018-05-15T20:56:20.805Z - info: Express server listening on port 8080
+2018-05-15T20:56:20.806Z - info: Application initialized! Run socket.io....
+2018-05-15T20:56:20.817Z - info: Frontgarden gestartet!
+2018-05-15T20:56:33.803Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbnoW url=/socket.io/?EIO=3&transport=polling&t=MDbbnoW, method=GET, 
+2018-05-15T20:56:38.836Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbpQZ url=/socket.io/?EIO=3&transport=polling&t=MDbbpQZ, method=GET, 
+2018-05-15T20:56:44.155Z - info: /socket.io/?EIO=3&transport=polling&t=MDbbqfB url=/socket.io/?EIO=3&transport=polling&t=MDbbqfB, method=GET, 
+2018-05-15T20:59:15.648Z - info: Initializing application....
+2018-05-15T20:59:15.652Z - info: Initialize web server...
+2018-05-15T20:59:15.665Z - info: Resolving webserver...
+2018-05-15T20:59:15.667Z - info: Express server listening on port 8080
+2018-05-15T20:59:15.668Z - info: Application initialized! Run socket.io....
+2018-05-15T20:59:15.671Z - info: Frontgarden gestartet!
+2018-05-15T20:59:34.159Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcUE9 url=/socket.io/?EIO=3&transport=polling&t=MDbcUE9, method=GET, 
+2018-05-15T20:59:35.372Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcUX8 url=/socket.io/?EIO=3&transport=polling&t=MDbcUX8, method=GET, 
+2018-05-15T20:59:36.749Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcUsc url=/socket.io/?EIO=3&transport=polling&t=MDbcUsc, method=GET, 
+2018-05-15T20:59:40.314Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcVkJ url=/socket.io/?EIO=3&transport=polling&t=MDbcVkJ, method=GET, 
+2018-05-15T20:59:45.334Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcWyj url=/socket.io/?EIO=3&transport=polling&t=MDbcWyj, method=GET, 
+2018-05-15T20:59:50.349Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcYB7 url=/socket.io/?EIO=3&transport=polling&t=MDbcYB7, method=GET, 
+2018-05-15T20:59:55.359Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcZPS url=/socket.io/?EIO=3&transport=polling&t=MDbcZPS, method=GET, 
+2018-05-15T21:00:00.375Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcadk url=/socket.io/?EIO=3&transport=polling&t=MDbcadk, method=GET, 
+2018-05-15T21:00:04.269Z - info: /home url=/home, method=GET, 
+2018-05-15T21:00:19.364Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcfGW url=/socket.io/?EIO=3&transport=polling&t=MDbcfGW, method=GET, 
+2018-05-15T21:00:20.600Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcfZe url=/socket.io/?EIO=3&transport=polling&t=MDbcfZe, method=GET, 
+2018-05-15T21:00:21.923Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcfuX url=/socket.io/?EIO=3&transport=polling&t=MDbcfuX, method=GET, 
+2018-05-15T21:00:25.364Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcgkI url=/socket.io/?EIO=3&transport=polling&t=MDbcgkI, method=GET, 
+2018-05-15T21:01:01.191Z - info: Initializing application....
+2018-05-15T21:01:01.194Z - info: Initialize web server...
+2018-05-15T21:01:01.208Z - info: Resolving webserver...
+2018-05-15T21:01:01.209Z - info: Express server listening on port 8080
+2018-05-15T21:01:01.210Z - info: Application initialized! Run socket.io....
+2018-05-15T21:01:01.213Z - info: Frontgarden gestartet!
+2018-05-15T21:01:05.447Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcqWJ url=/socket.io/?EIO=3&transport=polling&t=MDbcqWJ, method=GET, 
+2018-05-15T21:01:10.470Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcrkv url=/socket.io/?EIO=3&transport=polling&t=MDbcrkv, method=GET, 
+2018-05-15T21:01:12.779Z - info: /home url=/home, method=GET, 
+2018-05-15T21:01:30.323Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcwbE url=/socket.io/?EIO=3&transport=polling&t=MDbcwbE, method=GET, 
+2018-05-15T21:01:30.332Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T21:01:31.391Z - info: /socket.io/?EIO=3&transport=polling&t=MDbcwru url=/socket.io/?EIO=3&transport=polling&t=MDbcwru, method=GET, 
+2018-05-15T21:01:34.245Z - info: /home url=/home, method=GET, 
+2018-05-15T21:14:09.611Z - info: Initializing application....
+2018-05-15T21:14:09.614Z - info: Initialize web server...
+2018-05-15T21:14:09.629Z - info: Resolving webserver...
+2018-05-15T21:14:09.632Z - info: Express server listening on port 8080
+2018-05-15T21:14:09.632Z - info: Application initialized! Run socket.io....
+2018-05-15T21:14:09.634Z - info: Frontgarden gestartet!
+2018-05-15T21:14:19.137Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfsH- url=/socket.io/?EIO=3&transport=polling&t=MDbfsH-, method=GET, 
+2018-05-15T21:14:19.146Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T21:14:20.309Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfsaF url=/socket.io/?EIO=3&transport=polling&t=MDbfsaF, method=GET, 
+2018-05-15T21:14:21.661Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfsvN url=/socket.io/?EIO=3&transport=polling&t=MDbfsvN, method=GET, 
+2018-05-15T21:14:22.548Z - info: /socket.io/?EIO=3&transport=polling&t=MDbft7I url=/socket.io/?EIO=3&transport=polling&t=MDbft7I, method=GET, 
+2018-05-15T21:14:22.559Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T21:14:24.259Z - info: /socket.io/?EIO=3&transport=polling&t=MDbftXy url=/socket.io/?EIO=3&transport=polling&t=MDbftXy, method=GET, 
+2018-05-15T21:14:25.731Z - info: /api/circles/51OI8cqLkIyW9U8n url=/api/circles/51OI8cqLkIyW9U8n, method=GET, 
+2018-05-15T21:14:25.989Z - info: /socket.io/?EIO=3&transport=polling&t=MDbftz5 url=/socket.io/?EIO=3&transport=polling&t=MDbftz5, method=GET, 
+2018-05-15T21:14:30.352Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfv18 url=/socket.io/?EIO=3&transport=polling&t=MDbfv18, method=GET, 
+2018-05-15T21:14:30.968Z - info: /api/circles url=/api/circles, method=GET, 
+2018-05-15T21:14:35.377Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfwFi url=/socket.io/?EIO=3&transport=polling&t=MDbfwFi, method=GET, 
+2018-05-15T21:14:40.400Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfxU8 url=/socket.io/?EIO=3&transport=polling&t=MDbfxU8, method=GET, 
+2018-05-15T21:14:45.423Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfyik url=/socket.io/?EIO=3&transport=polling&t=MDbfyik, method=GET, 
+2018-05-15T21:14:50.443Z - info: /socket.io/?EIO=3&transport=polling&t=MDbfzx3 url=/socket.io/?EIO=3&transport=polling&t=MDbfzx3, method=GET, 

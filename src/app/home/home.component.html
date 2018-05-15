@@ -1,0 +1,24 @@
+<div class="home">
+  <button type="button" class="btn btn-success top" (click)="gotoDetail()">Neuen Kreis anlegen</button>
+  <table class="table table-striped table-bordered table-sm">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Gpio</th>
+        <th scope="col">Laufzeit Automatik</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let circle of circles">
+        <td (click)="gotoDetail(circle)">{{circle.name}}</td>
+        <td (click)="gotoDetail(circle)">{{circle.gpio}}</td>
+        <td (click)="gotoDetail(circle)">{{circle.autoTime}}</td>
+        <td>
+          <button type="button" [ngClass]="manOn ? 'btn btn-danger manuell' : 'btn btn-success manuell'" (click)="manStart(circle)">{{manOn ? "Stoppen" : "Starten"}}</button>
+          <button type="button" [ngClass]="autoOn ? 'btn btn-danger' : 'btn btn-success'" (click)="autoStart(circle)">{{autoOn ? "Automatik stoppen" : "Automatik starten"}}</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
