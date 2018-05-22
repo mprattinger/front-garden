@@ -13,10 +13,10 @@ module.exports.configLogger = function () {
         //Erzeugen
         fs.mkdirSync(winstonLogDir);
     }
-    winstonLogDir = path.join(winstonLogDir, "fg.log");
+    winstonLogDir = path.join(winstonLogDir, "fg-%DATE%.log");
     winston.add(require("winston-daily-rotate-file"), {
         filename: winstonLogDir,
-        datePattern: "dd-MM-yyyy",
+        datePattern: "DD-MM-YYYY",
         level: "info"
     });
 };
