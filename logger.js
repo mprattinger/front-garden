@@ -16,7 +16,7 @@ module.exports.configLogger = function () {
     winstonLogDir = path.join(winstonLogDir, "fg.log");
     winston.add(require("winston-daily-rotate-file"), {
         filename: winstonLogDir,
-        datePattern: ".dd-MM-yyyy",
+        datePattern: "dd-MM-yyyy",
         level: "info"
     });
 };

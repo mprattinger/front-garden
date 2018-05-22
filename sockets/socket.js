@@ -7,8 +7,9 @@ class Socket{
 
     constructor(server){
         this.server = server;
-        this.socketServer = socketio.listen(this.server);
-
+        this.socketServer = socketio.listen(this.server.server);
+        this.socketServer.set("origins", "*:*");
+        
         this.socketServer.on("connection", this.handleSockets);
     }
 

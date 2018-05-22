@@ -25,6 +25,19 @@
             }
           },
           {
+            "name": "npm buildall",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:8080/",
+            "webRoot": "${workspaceFolder}",
+            "sourceMapPathOverrides": {
+              "webpack:/./*": "${webRoot}/*",
+              "webpack:/src/*": "${webRoot}/src/*",
+              "webpack:/*": "*",
+              "webpack:/./~/*": "${webRoot}/node_modules/*"
+            }
+          },
+          {
             "name": "ng test",
             "type": "chrome",
             "request": "launch",

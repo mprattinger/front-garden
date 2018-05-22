@@ -6,11 +6,11 @@ import * as io from "socket.io-client";
   providedIn: 'root'
 })
 export class SocketService {
-  private url = "http://localhost:4200";
+  private url = "http://localhost:8080";
   private socket;
 
   constructor() { 
-    this.socket = io();
+    this.socket = io(this.url);
   }
 
   toggle(payload: Payload){

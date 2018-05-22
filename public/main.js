@@ -593,8 +593,8 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 
 var SocketService = /** @class */ (function () {
     function SocketService() {
-        this.url = "http://localhost:4200";
-        this.socket = socket_io_client__WEBPACK_IMPORTED_MODULE_1__();
+        this.url = "http://localhost:8080";
+        this.socket = socket_io_client__WEBPACK_IMPORTED_MODULE_1__(this.url);
     }
     SocketService.prototype.toggle = function (payload) {
         this.socket.emit('toggle', payload);
